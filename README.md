@@ -11,7 +11,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Nerd+Font&size=17&duration=3000&lines=I+learn+stuff+by+making+smth+out+of+it+;yet+It's+a+painful+method+to+learn+smth">
+          <image src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Nerd+Font&size=17&duration=4000&lines=I+learn+stuff+by+building+and+breaking">
         <br>
             <b>
             ~ Waishnav Deore ~
