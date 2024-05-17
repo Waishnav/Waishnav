@@ -26,9 +26,10 @@
 
 <p align="center">
     <samp>
-        <a href="https://twitter.com/waishnav_deore" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+        <a href="https://twitter.com/waishnav_deore" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>   
         <a href="mailto:waishnav.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a href="https://discord.com/users/814462428997484574" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+         <a href="https://www.linkedin.com/in/waishnav-deore" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       </samp>
 </p>
 <br>
