@@ -5,13 +5,13 @@
     <p align="center">
       <samp><br>
             <b>
-            Hello There
+            What's up, fellow developers?
         <br>
-            I'm Waishnav, a Student, Novice Programmer and Linux enthusiast.
+            I'm Waishnav, when I'm not coding, catch me reading books or tech blogs, or researching deep into rabbit holes.
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Nerd+Font&size=17&duration=4000&lines=I+learn+stuff+by+building+and+breaking">
+          <image src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Nerd+Font&size=17&duration=3000&color=FFFF00&&lines=I+build+stuff+and+learn+on+the+way...">
         <br>
             <b>
             ~ Waishnav Deore ~
